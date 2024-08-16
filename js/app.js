@@ -5,7 +5,10 @@ $(document).ready(function () {
     function fetchGamesData() {
         return $.getJSON('games.json', function(data) {
             gamesData = data;
-            init();
+            $.getJSON('games_todo.json', function(data2) {
+                gamesData = gamesData.concat(data2);
+                init();
+            });
         });
     }
 
