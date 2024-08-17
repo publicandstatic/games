@@ -91,6 +91,10 @@ $(document).ready(function () {
                 counterPlayed++;
             }
         });
+
+        $('#count-played').text(counterPlayed + counterPassed);
+        $('#count-passed').text(counterPassed);
+
         populateYearFilter();
         updateTable();
 
