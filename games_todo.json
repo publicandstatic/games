@@ -39,7 +39,7 @@
     "status": "planned"
   },
   {
-    "name": "Animal WellL",
+    "name": "Animal Well",
     "year": "2024",
     "status": "planned"
   },
@@ -119,11 +119,6 @@
     "status": "planned"
   },
   {
-    "name": "Lucius",
-    "year": "2025",
-    "status": "planned"
-  },
-  {
     "name": "Resident Evil 2",
     "year": "2025",
     "status": "planned"
@@ -190,6 +185,34 @@
     "status": "planned"
   },{
     "name": "Kingdom Come: Deliverance II",
+    "year": "2025",
+    "status": "planned"
+  },{
+    "name": "Horizon Forbidden West",
+    "year": "2025",
+    "status": "planned"
+  },{
+    "name": "Anthology of Fear",
+    "year": "2024",
+    "status": "planned"
+  },{
+    "name": "Stray",
+    "year": "2024",
+    "status": "planned"
+  },{
+    "name": "Hogwarts Legacy",
+    "year": "2025",
+    "status": "planned"
+  },{
+    "name": "S.T.A.L.K.E.R.: Legends of the Zone Trilogy",
+    "year": "2025",
+    "status": "planned"
+  },{
+    "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "year": "2025",
+    "status": "planned"
+  },{
+    "name": "Red Dead Redemption",
     "year": "2025",
     "status": "planned"
   }
