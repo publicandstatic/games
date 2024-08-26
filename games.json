@@ -968,5 +968,10 @@
         "name": "Dishonored",
         "year": "2024",
         "status": "played"
+    },
+    {
+        "name": "Dead Space",
+        "year": "2024",
+        "status": "completed"
     }
 ]
