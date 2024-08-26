@@ -865,7 +865,7 @@
         "status": "played"
     },
     {
-        "name": "Джуманджі: Дикі пригоди",
+        "name": "Jumanji: Wild Adventures",
         "year": "2024",
         "status": "played"
     },
@@ -880,7 +880,7 @@
         "status": "played"
     },
     {
-        "name": "ТРАНСФОРМЕРИ: ЗЕМНА ІСКРА -Експедиція",
+        "name": "TRANSFORMERS: EARTHSPARK - Expedition",
         "year": "2024",
         "status": "played"
     },
@@ -973,5 +973,45 @@
         "name": "Dead Space",
         "year": "2024",
         "status": "completed"
+    },
+    {
+        "name": "Darkwing Duck",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "DuckTales",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Chip 'n Dale Rescue Rangers",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Contra",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Contra III: The Alien Wars",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Haunted Castle",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Nemesis",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Thunder Cross",
+        "year": "2024",
+        "status": "played"
     }
 ]

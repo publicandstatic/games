@@ -29,9 +29,9 @@ $(document).ready(function () {
 
     function getStatusName(status) {
         switch (status) {
-            case 'completed': return 'Пройшов';
-            case 'played': return 'Грав';
-            case 'planned': return 'Планую пройти';
+            case 'completed': return 'Пройдено';
+            case 'played': return 'Зіграно';
+            case 'planned': return 'Заплановано';
             default: return '';
         }
     }
