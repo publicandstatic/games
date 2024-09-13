@@ -1,12 +1,12 @@
 $(document).ready(function () {
-    let currentSort = {field: 'name', ascending: true};
+    let currentSort = {field: null, ascending: true};
     let gamesData = [];
 
     function fetchGamesData() {
         return $.getJSON('games.json', function(data) {
-            gamesData = data;
+            let gamesFromJson = data.reverse();
             $.getJSON('games_todo.json', function(data2) {
-                gamesData = gamesData.concat(data2);
+                gamesData = gamesFromJson.concat(data2);
                 init();
             });
         });
@@ -58,7 +58,9 @@ $(document).ready(function () {
         const yearFilter = $('#yearFilter').val();
         const statusFilter = $('#statusFilter').val();
         let filteredGames = filterGames(gamesData, nameSearch, yearFilter, statusFilter);
-        filteredGames = sortGames(filteredGames, currentSort.field, currentSort.ascending);
+        if (currentSort.field) {
+            filteredGames = sortGames(filteredGames, currentSort.field, currentSort.ascending);
+        }
         renderTable(filteredGames);
         updateSortIndicators();
     }
@@ -75,10 +77,16 @@ $(document).ready(function () {
 
     function updateSortIndicators() {
         $('.sortable').removeClass('asc desc');
-        const sortColumn = currentSort.field === 'name' ? '#sortByName' :
-            currentSort.field === 'year' ? '#sortByYear' :
-                '#sortByStatus';
-        $(sortColumn).addClass(currentSort.ascending ? 'asc' : 'desc');
+        if (currentSort.field) {
+            const sortColumn = currentSort.field === 'name' ? '#sortByName' :
+                currentSort.field === 'year' ? '#sortByYear' :
+                    currentSort.field === 'status' ? '#sortByStatus' : '';
+
+            // Додаємо класи для відображення напрямку сортування
+            if (sortColumn) {
+                $(sortColumn).addClass(currentSort.ascending ? 'asc' : 'desc');
+            }
+        }
     }
 
     let counterPassed = 0;
