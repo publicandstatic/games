@@ -96,3 +96,28 @@ h1 {
     color: #000;
     border-color: #999;
 }
+
+.dropdown-center {
+    z-index: 100;
+}
+#hamburger {
+    background-color: #3e475f;
+    color: #FFFFFF;
+}
+
+#hamburger:hover, #hamburger:active {
+    background-color: #3e475f;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.dropdown-menu {
+    --bs-dropdown-bg: #3e475f;
+}
+.dropdown-item {
+    --bs-dropdown-link-color: #FFFFFF;
+    --bs-dropdown-link-active-bg: #1f222c;
+    --bs-dropdown-link-active-color: #FFFFFF;
+    --bs-dropdown-link-hover-bg: #1f222c;
+    --bs-dropdown-link-hover-color: #FFFFFF;
+}
