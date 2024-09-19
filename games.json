@@ -545,11 +545,6 @@
         "status": "played"
     },
     {
-        "name": "Death's Door",
-        "year": "2024",
-        "status": "played"
-    },
-    {
         "name": "Jackbox Party Packs",
         "year": "2024",
         "status": "played"
@@ -917,7 +912,7 @@
     {
         "name": "Death's Door",
         "year": "2024",
-        "status": "played"
+        "status": "completed"
     },
     {
         "name": "Sclash",
