@@ -1,5 +1,830 @@
 [
     {
+        "name": "Death's Door",
+        "year": "2024",
+        "status": "completed"
+    },
+    {
+        "name": "Cyberpunk 2077",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Hogwarts Legacy",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Baldur's Gate 3",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Songs of Silence",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Nier: Automata",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "KOBOLOK",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Sea under the sea under the sea",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Son of Perun Kharkiv",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Tormented Souls",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Ostriv",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Resident Evil 4",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Harry Potter: Quidditch Champions",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Bō: Path of the Teal Lotus",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Garden Simulator",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Darkwing Duck",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "DuckTales",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Chip 'n Dale Rescue Rangers",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Contra",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Contra III: The Alien Wars",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Haunted Castle",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Nemesis",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Thunder Cross",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Altered Beast",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Bonanza Bros.",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Comix Zone",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Fatal Labyrinth",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Gunstar Heroes",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Ristar",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Shinobi III: Return of the Ninja Master",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Sonic the Hedgehog",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Sonic 3D Blast",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Streets of Rage",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Vectorman",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Virtua Fighter 2",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Wonder Boy III: Monster Lair",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Wonder Boy in Monster World",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Battle City",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Rolling Thunder",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Mendel Palace",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Galaga",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Xevious",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Mappy",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Dig Dug",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "The Tower of Druaga",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Sky Kid",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Dragon Buster",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Twisted Metal",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Twisted Metal World Tour",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Dead Space",
+        "year": "2024",
+        "status": "completed"
+    },
+    {
+        "name": "EMPTY SHELL",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Trust No One",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Alisa",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Rise of the Ronin",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Cult of the Lamb",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Baby Boomer 2: 35 Years Too Soon",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "The Outer Worlds",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "The Inquisitor",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Dishonored",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Sclash",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "DREDGE",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "2Xtreme",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Entwined",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Mega Man 11",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Mystic Pillars",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Prison Architect",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Cobra Kai 2: Dojos Rising",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "SpongeBob SquarePants: The Cosmic Shake",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Unpacking",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Cartoon Network: Battle Crashers",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Deceive Inc.",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Hohokum",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Jumanji: Wild Adventures",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Cat Quest II",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Hellboy Web of Wyrd",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "TRANSFORMERS: EARTHSPARK - Expedition",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Tomb Raider: Legend",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Police Simulator: Patrol Officers",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "OddBallers",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "EA Sports NHL 24",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Streets of Rage 4",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Empire of Sin",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Mafia: Definitive Edition",
+        "year": "2020",
+        "status": "completed"
+    },
+    {
+        "name": "Jackbox Party Packs",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Gartic Phone",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Fortnite",
+        "year": "2023",
+        "status": "played"
+    },
+    {
+        "name": "DIRT 5",
+        "year": "2023",
+        "status": "played"
+    },
+    {
+        "name": "Music Racer",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Horizon Forbidden West",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Life is Strange: Before the Storm Remastered",
+        "year": "2022",
+        "status": "completed"
+    },
+    {
+        "name": "Life is Strange Remastered",
+        "year": "2022",
+        "status": "completed"
+    },
+    {
+        "name": "Struggling",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Gartic Show",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Overwatch",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "SAGEBRUSH",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Just Die Already",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Bunny Factory",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Blind Postman",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "El Hijo: A Wild West Tale",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Variety",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Never Alone: Kisima Ingitchuna",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "We Happy Few",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Bloodborne",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Crash Team Racing Nitro-Fueled",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Mortal Shell",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "The Last Guardian",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Little Fighters on Stream",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Titan Chaser",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Shakes on a Plane",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Crab Game",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Awesome Pea 2",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Layers of Fear 2",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "Tomato Way 3",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "Tomato Way 2",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "Tomato Way",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "My Friend Pedro",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Albert and Otto: The Adventure Begins",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "Dota 2",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Surgeon Simulator 2013",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "I am Bread",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Ghost of Tsushima: Director's Cut",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "Assassin's Creed III",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Abzu",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "BLACKSAD: Under the Skin",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "God of War III",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "Outriders",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Marvel's Spider-Man Remastered",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "Mafia II: Definitive Edition",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "Fallout 4",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Inside",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "Monopoly Plus",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Manual Samuel",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Fall Guys",
+        "year": "2020",
+        "status": "played"
+    },
+    {
+        "name": "God of War Ragnarök",
+        "year": "2024",
+        "status": "completed"
+    },
+    {
+        "name": "Alan Wake II",
+        "year": "2024",
+        "status": "completed"
+    },
+    {
+        "name": "Mafia: Definitive Edition",
+        "year": "2024",
+        "status": "completed"
+    },
+    {
+        "name": "Sherlock Holmes: The Awakened",
+        "year": "2024",
+        "status": "completed"
+    },
+    {
+        "name": "Hi-Fi RUSH",
+        "year": "2024",
+        "status": "completed"
+    },
+    {
+        "name": "The Shapeshifting Detective",
+        "year": "2024",
+        "status": "completed"
+    },
+    {
+        "name": "Outlast",
+        "year": "2024",
+        "status": "completed"
+    },
+    {
+        "name": "Outlast II",
+        "year": "2024",
+        "status": "completed"
+    },
+    {
+        "name": "Gray Dawn",
+        "year": "2024",
+        "status": "completed"
+    },
+    {
+        "name": "Late Shift",
+        "year": "2024",
+        "status": "completed"
+    },
+    {
+        "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+        "year": "2024",
+        "status": "completed"
+    },
+    {
+        "name": "MOTHERED",
+        "year": "2024",
+        "status": "completed"
+    },
+    {
+        "name": "Felix the Cat",
+        "year": "2024",
+        "status": "completed"
+    },
+    {
+        "name": "Moonscars",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Visage",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Crash Bandicoot 4: It's About Time",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Maid of Sker",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "ELDEN RING",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Lords of the Fallen",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Demon's Souls",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "The Outlast Trials",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Shines Over: The Damned",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "THE ENIGMA MACHINE",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Celeste",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "SIFU",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Star Wars Jedi: Survivor",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Metal Gear Solid Master Collection: Volume 1",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Contra: Operation Galuga",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Dune: Imperium",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Super Meat Boy",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Need for Speed: Unbound",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Mortal Kombat 1",
+        "year": "2024",
+        "status": "played"
+    },
+    {
         "name": "Octodad: Dadliest Catch",
         "year": "2022",
         "status": "completed"
@@ -383,830 +1208,5 @@
         "name": "Heavy Rain",
         "year": "2020",
         "status": "completed"
-    },
-    {
-        "name": "God of War Ragnarök",
-        "year": "2024",
-        "status": "completed"
-    },
-    {
-        "name": "Alan Wake II",
-        "year": "2024",
-        "status": "completed"
-    },
-    {
-        "name": "Mafia: Definitive Edition",
-        "year": "2024",
-        "status": "completed"
-    },
-    {
-        "name": "Sherlock Holmes: The Awakened",
-        "year": "2024",
-        "status": "completed"
-    },
-    {
-        "name": "Hi-Fi RUSH",
-        "year": "2024",
-        "status": "completed"
-    },
-    {
-        "name": "The Shapeshifting Detective",
-        "year": "2024",
-        "status": "completed"
-    },
-    {
-        "name": "Outlast",
-        "year": "2024",
-        "status": "completed"
-    },
-    {
-        "name": "Outlast II",
-        "year": "2024",
-        "status": "completed"
-    },
-    {
-        "name": "Gray Dawn",
-        "year": "2024",
-        "status": "completed"
-    },
-    {
-        "name": "Late Shift",
-        "year": "2024",
-        "status": "completed"
-    },
-    {
-        "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
-        "year": "2024",
-        "status": "completed"
-    },
-    {
-        "name": "MOTHERED",
-        "year": "2024",
-        "status": "completed"
-    },
-    {
-        "name": "Felix the Cat",
-        "year": "2024",
-        "status": "completed"
-    },
-    {
-        "name": "Moonscars",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Visage",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Crash Bandicoot 4: It's About Time",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Maid of Sker",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "ELDEN RING",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Lords of the Fallen",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Demon's Souls",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "The Outlast Trials",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Shines Over: The Damned",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "THE ENIGMA MACHINE",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Celeste",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "SIFU",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Star Wars Jedi: Survivor",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Metal Gear Solid Master Collection: Volume 1",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Contra: Operation Galuga",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Dune: Imperium",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Super Meat Boy",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Need for Speed: Unbound",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Mortal Kombat 1",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Jackbox Party Packs",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Gartic Phone",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Fortnite",
-        "year": "2023",
-        "status": "played"
-    },
-    {
-        "name": "DIRT 5",
-        "year": "2023",
-        "status": "played"
-    },
-    {
-        "name": "Music Racer",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Horizon Forbidden West",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Life is Strange: Before the Storm Remastered",
-        "year": "2022",
-        "status": "completed"
-    },
-    {
-        "name": "Life is Strange Remastered",
-        "year": "2022",
-        "status": "completed"
-    },
-    {
-        "name": "Struggling",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Gartic Show",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Overwatch",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "SAGEBRUSH",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Just Die Already",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Bunny Factory",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Blind Postman",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "El Hijo: A Wild West Tale",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Variety",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Never Alone: Kisima Ingitchuna",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "We Happy Few",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Bloodborne",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Crash Team Racing Nitro-Fueled",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Mortal Shell",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "The Last Guardian",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Little Fighters on Stream",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Titan Chaser",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Shakes on a Plane",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Crab Game",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Awesome Pea 2",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Layers of Fear 2",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "Tomato Way 3",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "Tomato Way 2",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "Tomato Way",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "My Friend Pedro",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Albert and Otto: The Adventure Begins",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "Dota 2",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Surgeon Simulator 2013",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "I am Bread",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Ghost of Tsushima: Director's Cut",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "Assassin's Creed III",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Abzu",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "BLACKSAD: Under the Skin",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "God of War III",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "Outriders",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Marvel's Spider-Man Remastered",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "Mafia II: Definitive Edition",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "Fallout 4",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Inside",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "Monopoly Plus",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Manual Samuel",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Fall Guys",
-        "year": "2020",
-        "status": "played"
-    },
-    {
-        "name": "Mafia: Definitive Edition",
-        "year": "2020",
-        "status": "completed"
-    },
-    {
-        "name": "DREDGE",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "2Xtreme",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Entwined",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Mega Man 11",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Mystic Pillars",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Prison Architect",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Cobra Kai 2: Dojos Rising",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "SpongeBob SquarePants: The Cosmic Shake",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Unpacking",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Cartoon Network: Battle Crashers",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Deceive Inc.",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Hohokum",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Jumanji: Wild Adventures",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Cat Quest II",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Hellboy Web of Wyrd",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "TRANSFORMERS: EARTHSPARK - Expedition",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Tomb Raider: Legend",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Police Simulator: Patrol Officers",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "OddBallers",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "EA Sports NHL 24",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Streets of Rage 4",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Empire of Sin",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Death's Door",
-        "year": "2024",
-        "status": "completed"
-    },
-    {
-        "name": "Sclash",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "EMPTY SHELL",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Trust No One",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Alisa",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Rise of the Ronin",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Cult of the Lamb",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Baby Boomer 2: 35 Years Too Soon",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "The Outer Worlds",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "The Inquisitor",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Dishonored",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Dead Space",
-        "year": "2024",
-        "status": "completed"
-    },
-    {
-        "name": "Darkwing Duck",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "DuckTales",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Chip 'n Dale Rescue Rangers",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Contra",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Contra III: The Alien Wars",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Haunted Castle",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Nemesis",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Thunder Cross",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Altered Beast",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Bonanza Bros.",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Comix Zone",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Fatal Labyrinth",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Gunstar Heroes",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Ristar",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Shinobi III: Return of the Ninja Master",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Sonic the Hedgehog",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Sonic 3D Blast",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Streets of Rage",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Vectorman",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Virtua Fighter 2",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Wonder Boy III: Monster Lair",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Wonder Boy in Monster World",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Battle City",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Rolling Thunder",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Mendel Palace",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Galaga",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Xevious",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Mappy",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Dig Dug",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "The Tower of Druaga",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Sky Kid",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Dragon Buster",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Twisted Metal",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Twisted Metal World Tour",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Harry Potter: Quidditch Champions",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Bō: Path of the Teal Lotus",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Garden Simulator",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Cyberpunk 2077",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Hogwarts Legacy",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Baldur's Gate 3",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Songs of Silence",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Nier: Automata",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "KOBOLOK",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Sea under the sea under the sea",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Son of Perun Kharkiv",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Tormented Souls",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Ostriv",
-        "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Resident Evil 4",
-        "year": "2024",
-        "status": "played"
     }
 ]
