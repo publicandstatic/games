@@ -1,10 +1,10 @@
 $(document).ready(function () {
-    let currentSort = {field: null, ascending: true};
+    let currentSort = {field: null, ascending: false};
     let gamesData = [];
 
     function fetchGamesData() {
         return $.getJSON('games.json', function(data) {
-            let gamesFromJson = data.reverse();
+            let gamesFromJson = data;
             $.getJSON('games_todo.json', function(data2) {
                 gamesData = gamesFromJson.concat(data2);
                 init();

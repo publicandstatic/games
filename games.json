@@ -1,5 +1,15 @@
 [
     {
+        "name": "Who is There?",
+        "year": "2024",
+        "status": "played"
+    },
+    {
+        "name": "Stray",
+        "year": "2024",
+        "status": "completed"
+    },
+    {
         "name": "Death's Door",
         "year": "2024",
         "status": "completed"
@@ -410,11 +420,6 @@
         "status": "played"
     },
     {
-        "name": "Mafia: Definitive Edition",
-        "year": "2020",
-        "status": "completed"
-    },
-    {
         "name": "Jackbox Party Packs",
         "year": "2024",
         "status": "played"
@@ -422,246 +427,6 @@
     {
         "name": "Gartic Phone",
         "year": "2024",
-        "status": "played"
-    },
-    {
-        "name": "Fortnite",
-        "year": "2023",
-        "status": "played"
-    },
-    {
-        "name": "DIRT 5",
-        "year": "2023",
-        "status": "played"
-    },
-    {
-        "name": "Music Racer",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Horizon Forbidden West",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Life is Strange: Before the Storm Remastered",
-        "year": "2022",
-        "status": "completed"
-    },
-    {
-        "name": "Life is Strange Remastered",
-        "year": "2022",
-        "status": "completed"
-    },
-    {
-        "name": "Struggling",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Gartic Show",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Overwatch",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "SAGEBRUSH",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Just Die Already",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Bunny Factory",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Blind Postman",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "El Hijo: A Wild West Tale",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Variety",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Never Alone: Kisima Ingitchuna",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "We Happy Few",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Bloodborne",
-        "year": "2022",
-        "status": "played"
-    },
-    {
-        "name": "Crash Team Racing Nitro-Fueled",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Mortal Shell",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "The Last Guardian",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Little Fighters on Stream",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Titan Chaser",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Shakes on a Plane",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Crab Game",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Awesome Pea 2",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Layers of Fear 2",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "Tomato Way 3",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "Tomato Way 2",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "Tomato Way",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "My Friend Pedro",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Albert and Otto: The Adventure Begins",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "Dota 2",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Surgeon Simulator 2013",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "I am Bread",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Ghost of Tsushima: Director's Cut",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "Assassin's Creed III",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Abzu",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "BLACKSAD: Under the Skin",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "God of War III",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "Outriders",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Marvel's Spider-Man Remastered",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "Mafia II: Definitive Edition",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "Fallout 4",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Inside",
-        "year": "2021",
-        "status": "completed"
-    },
-    {
-        "name": "Monopoly Plus",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Manual Samuel",
-        "year": "2021",
-        "status": "played"
-    },
-    {
-        "name": "Fall Guys",
-        "year": "2020",
         "status": "played"
     },
     {
@@ -825,6 +590,96 @@
         "status": "played"
     },
     {
+        "name": "Fortnite",
+        "year": "2023",
+        "status": "played"
+    },
+    {
+        "name": "DIRT 5",
+        "year": "2023",
+        "status": "played"
+    },
+    {
+        "name": "Music Racer",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Horizon Forbidden West",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Life is Strange: Before the Storm Remastered",
+        "year": "2022",
+        "status": "completed"
+    },
+    {
+        "name": "Life is Strange Remastered",
+        "year": "2022",
+        "status": "completed"
+    },
+    {
+        "name": "Struggling",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Gartic Show",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Overwatch",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "SAGEBRUSH",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Just Die Already",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Bunny Factory",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Blind Postman",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "El Hijo: A Wild West Tale",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Variety",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Never Alone: Kisima Ingitchuna",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "We Happy Few",
+        "year": "2022",
+        "status": "played"
+    },
+    {
+        "name": "Bloodborne",
+        "year": "2022",
+        "status": "played"
+    },
+    {
         "name": "Octodad: Dadliest Catch",
         "year": "2022",
         "status": "completed"
@@ -868,6 +723,151 @@
         "name": "Brothers: A Tale of Two Sons",
         "year": "2022",
         "status": "completed"
+    },
+    {
+        "name": "Crash Team Racing Nitro-Fueled",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Mortal Shell",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "The Last Guardian",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Little Fighters on Stream",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Titan Chaser",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Shakes on a Plane",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Crab Game",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Awesome Pea 2",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Layers of Fear 2",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "Tomato Way 3",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "Tomato Way 2",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "Tomato Way",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "My Friend Pedro",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Albert and Otto: The Adventure Begins",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "Dota 2",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Surgeon Simulator 2013",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "I am Bread",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Ghost of Tsushima: Director's Cut",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "Assassin's Creed III",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Abzu",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "BLACKSAD: Under the Skin",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "God of War III",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "Outriders",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Marvel's Spider-Man Remastered",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "Mafia II: Definitive Edition",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "Fallout 4",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Inside",
+        "year": "2021",
+        "status": "completed"
+    },
+    {
+        "name": "Monopoly Plus",
+        "year": "2021",
+        "status": "played"
+    },
+    {
+        "name": "Manual Samuel",
+        "year": "2021",
+        "status": "played"
     },
     {
         "name": "A Way Out",
@@ -1118,6 +1118,16 @@
         "name": "Death Stranding",
         "year": "2021",
         "status": "completed"
+    },
+    {
+        "name": "Mafia: Definitive Edition",
+        "year": "2020",
+        "status": "completed"
+    },
+    {
+        "name": "Fall Guys",
+        "year": "2020",
+        "status": "played"
     },
     {
         "name": "Outlast II",
