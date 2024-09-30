@@ -116,8 +116,13 @@ h1 {
 }
 .dropdown-item {
     --bs-dropdown-link-color: #FFFFFF;
-    --bs-dropdown-link-active-bg: #1f222c;
+    --bs-dropdown-link-active-bg: rgba(31, 34, 44, 0.5);
     --bs-dropdown-link-active-color: #FFFFFF;
     --bs-dropdown-link-hover-bg: #1f222c;
     --bs-dropdown-link-hover-color: #FFFFFF;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+    color: var(--bs-dropdown-link-hover-color) !important;
+    background-color: var(--bs-dropdown-link-hover-bg) !important;
 }
