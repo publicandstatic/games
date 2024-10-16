@@ -1,21 +1,26 @@
 [
   {
-    "name": "Cocoon",
-    "year": "2024",
-    "status": "planned"
-  },
-  {
     "name": "Silent Hill 2",
     "year": "2024",
     "status": "planned"
   },
   {
-    "name": "Manual Samuel",
+    "name": "Son of Perun Kharkiv",
     "year": "2024",
     "status": "planned"
   },
   {
-    "name": "Marvel's Spider-Man 2",
+    "name": "CosmoOdyssey 2: Comeback to origin",
+    "year": "2024",
+    "status": "planned"
+  },
+  {
+    "name": "Trapped Souls",
+    "year": "2024",
+    "status": "planned"
+  },
+  {
+    "name": "No King No Kingdom",
     "year": "2024",
     "status": "planned"
   },
@@ -25,41 +30,57 @@
     "status": "planned"
   },
   {
-    "name": "Animal Well",
-    "year": "2024",
-    "status": "planned"
-  }, {
-    "name": "Astro Bot",
-    "year": "2024",
-    "status": "planned"
-  },
-  {
     "name": "Amnesia: The Bunker",
     "year": "2024",
     "status": "planned"
   },
   {
-    "name": "MADiSON",
+    "name": "Alien: Isolation",
     "year": "2024",
     "status": "planned"
   },
   {
-    "name": "Alien: Isolation",
-    "year": "2025",
-    "status": "planned"
-  },
-  {
     "name": "Amnesia: Rebirth",
+    "year": "2024",
+    "status": "planned"
+  },
+  {
+    "name": "South Park: The Stick of Truth",
+    "year": "2024",
+    "status": "planned"
+  },
+  {
+    "name": "Cocoon",
     "year": "2025",
     "status": "planned"
   },
   {
-    "name": "NieR:Automatah",
+    "name": "Manual Samuel",
     "year": "2025",
     "status": "planned"
   },
   {
-    "name": "Son of Perun Kharkiv",
+    "name": "Marvel's Spider-Man 2",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "Animal Well",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "Astro Bot",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "MADiSON",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "NieR:Automata",
     "year": "2025",
     "status": "planned"
   },
@@ -187,7 +208,8 @@
     "name": "Kingdom Come: Deliverance II",
     "year": "2025",
     "status": "planned"
-  }, {
+  },
+  {
     "name": "Kingdom Come: Deliverance",
     "year": "2025",
     "status": "planned"
@@ -199,11 +221,6 @@
   },
   {
     "name": "Anthology of Fear",
-    "year": "2024",
-    "status": "planned"
-  },
-  {
-    "name": "Stray",
     "year": "2024",
     "status": "planned"
   },
@@ -226,39 +243,43 @@
     "name": "Red Dead Redemption",
     "year": "2025",
     "status": "planned"
-  },{
-    "name": "Bosorka",
-    "year": "2025",
-    "status": "planned"
-  },{
+  },
+  {
     "name": "Bully: Scholarship Edition",
     "year": "2025",
     "status": "planned"
-  },{
+  },
+  {
     "name": "Chained Together",
     "year": "2025",
     "status": "planned"
-  },{
+  },
+  {
     "name": "Flashback",
     "year": "2025",
     "status": "planned"
-  },{
+  },
+  {
     "name": "Fran Bow",
     "year": "2025",
     "status": "planned"
-  },{
+  },
+  {
     "name": "Little Misfortune",
     "year": "2025",
     "status": "planned"
-  },{
+  },
+  {
     "name": "Lucius",
     "year": "2025",
     "status": "planned"
-  },{
+  },
+  {
     "name": "Out of Line",
     "year": "2025",
     "status": "planned"
-  },{
+  },
+  {
     "name": "Papetura",
     "year": "2025",
     "status": "planned"
