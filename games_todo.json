@@ -1,15 +1,5 @@
 [
   {
-    "name": "Trapped Souls",
-    "year": "2024",
-    "status": "planned"
-  },
-  {
-    "name": "No King No Kingdom",
-    "year": "2024",
-    "status": "planned"
-  },
-  {
     "name": "Amnesia: The Bunker",
     "year": "2024",
     "status": "planned"
@@ -75,7 +65,12 @@
     "status": "planned"
   },
   {
-    "name": "Yakuza 0",
+    "name": "Alisa",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "Alice: Madness Returns",
     "year": "2025",
     "status": "planned"
   },
@@ -130,7 +125,7 @@
     "status": "planned"
   },
   {
-    "name": "The Stanley Parable: Ultra Deluxe",
+    "name": "The Stanley Parable",
     "year": "2025",
     "status": "planned"
   },
@@ -241,6 +236,16 @@
   },
   {
     "name": "Papetura",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "Whispering Willows",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "Fallout: New Vegas",
     "year": "2025",
     "status": "planned"
   }
