@@ -61,6 +61,9 @@ $(document).ready(function () {
         if (currentSort.field) {
             filteredGames = sortGames(filteredGames, currentSort.field, currentSort.ascending);
         }
+
+        console.log(filteredGames);
+        console.log(filteredGames.length);
         renderTable(filteredGames);
         updateSortIndicators();
     }
@@ -82,7 +85,6 @@ $(document).ready(function () {
                 currentSort.field === 'year' ? '#sortByYear' :
                     currentSort.field === 'status' ? '#sortByStatus' : '';
 
-            // Додаємо класи для відображення напрямку сортування
             if (sortColumn) {
                 $(sortColumn).addClass(currentSort.ascending ? 'asc' : 'desc');
             }
@@ -100,7 +102,7 @@ $(document).ready(function () {
             }
         });
 
-        $('#count-played').text(counterPlayed + counterPassed);
+        $('#count-played').text(counterPlayed);
         $('#count-passed').text(counterPassed);
 
         populateYearFilter();
