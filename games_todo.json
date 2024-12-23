@@ -1,16 +1,31 @@
 [
   {
-    "name": "South Park: The Stick of Truth",
-    "year": "2024",
-    "status": "planned"
-  },
-  {
     "name": "Cocoon",
     "year": "2024",
     "status": "planned"
   },
   {
     "name": "Gris",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "Astro Bot",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "Marvel's Spider-Man 2",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "Plastomorphosis",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "DETECTIVE - Stella Porta case",
     "year": "2025",
     "status": "planned"
   },
@@ -30,17 +45,7 @@
     "status": "planned"
   },
   {
-    "name": "Marvel's Spider-Man 2",
-    "year": "2025",
-    "status": "planned"
-  },
-  {
     "name": "Animal Well",
-    "year": "2025",
-    "status": "planned"
-  },
-  {
-    "name": "Astro Bot",
     "year": "2025",
     "status": "planned"
   },
@@ -221,6 +226,11 @@
   },
   {
     "name": "Fallout: New Vegas",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "Cronos: The New Dawn",
     "year": "2025",
     "status": "planned"
   }
