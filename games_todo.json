@@ -35,27 +35,12 @@
     "status": "planned"
   },
   {
-    "name": "Animal Well",
-    "year": "2025",
-    "status": "planned"
-  },
-  {
     "name": "MADiSON",
     "year": "2025",
     "status": "planned"
   },
   {
     "name": "NieR:Automata",
-    "year": "2025",
-    "status": "planned"
-  },
-  {
-    "name": "Star Wars Jedi: Survivor",
-    "year": "2025",
-    "status": "planned"
-  },
-  {
-    "name": "The Last of Us Part I",
     "year": "2025",
     "status": "planned"
   },
@@ -105,7 +90,7 @@
     "status": "planned"
   },
   {
-    "name": "Call of Duty: Advanced Warfare",
+    "name": "Neva",
     "year": "2025",
     "status": "planned"
   },
@@ -140,7 +125,27 @@
     "status": "planned"
   },
   {
-    "name": "Kingdom Come: Deliverance",
+    "name": "FINAL FANTASY IV",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "FINAL FANTASY V",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "FINAL FANTASY IX",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "Split Fiction",
     "year": "2025",
     "status": "planned"
   },
@@ -180,11 +185,6 @@
     "status": "planned"
   },
   {
-    "name": "Flashback",
-    "year": "2025",
-    "status": "planned"
-  },
-  {
     "name": "Fran Bow",
     "year": "2025",
     "status": "planned"
@@ -200,17 +200,32 @@
     "status": "planned"
   },
   {
-    "name": "Out of Line",
+    "name": "Pacify",
     "year": "2025",
     "status": "planned"
   },
   {
-    "name": "Papetura",
+    "name": "Metrophobia",
     "year": "2025",
     "status": "planned"
   },
   {
-    "name": "Whispering Willows",
+    "name": "Bendy and the Dark Revival",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "Bendy: The Cage",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "Silence Channel 2",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "The Last of Us Part I",
     "year": "2025",
     "status": "planned"
   },
@@ -220,7 +235,42 @@
     "status": "planned"
   },
   {
+    "name": "Killer Bean",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
     "name": "Cronos: The New Dawn",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "Low-Budget Repairs",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "The Medium",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "FINIS",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "Don't Be Afraid 2",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "Forget",
+    "year": "2025",
+    "status": "planned"
+  },
+  {
+    "name": "I Want to Believe",
     "year": "2025",
     "status": "planned"
   }
