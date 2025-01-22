@@ -1,5 +1,10 @@
 [
     {
+        "name": "Astro Bot",
+        "year": "2025",
+        "status": "completed"
+    },
+    {
         "name": "Cocoon",
         "year": "2024",
         "status": "played"
