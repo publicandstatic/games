@@ -126,3 +126,25 @@ h1 {
     color: var(--bs-dropdown-link-hover-color) !important;
     background-color: var(--bs-dropdown-link-hover-bg) !important;
 }
+
+.dropdown-menu a {
+    text-decoration: none;
+    position: relative;
+    color: #22A8CB;
+    font-size: 1em;
+}
+
+.dropdown-menu a::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    width: 0;
+    height: 2px;
+    background-color: currentColor;
+    transition: width 0.3s ease;
+}
+
+.dropdown-menu a:hover::after {
+    width: 100%;
+}
